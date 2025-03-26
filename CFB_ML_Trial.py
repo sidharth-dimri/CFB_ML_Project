@@ -1,3 +1,5 @@
+#Code can run as is. This file is to try out the program and see the predictions for yourself
+
 import pandas as pd
 import scipy
 import matplotlib.pyplot as plt
