@@ -1,3 +1,6 @@
+#all code in this program is commented out, but feel free to edit out those comments to try things yourself.
+#hopefully the comments I provided throughout the code are self-explanatory
+
 import pandas as pd
 import scipy
 import matplotlib.pyplot as plt
